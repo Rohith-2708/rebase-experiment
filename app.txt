@@ -1,4 +1,1 @@
-this is a original file.
-remote developer added this line
-this change is done by local developer
-
+remote developer file.
